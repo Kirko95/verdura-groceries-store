@@ -1,8 +1,6 @@
-# InStore a React-Native E-Commerce with a Restful API in NodeJS
+# Verdura Groceries Store
 
-I will want to thank you **Bharath Annamula** for the design and all the idea.
-
-This will be like Instacart a bit.
+This is a mobile application build on react native for verdura groceries store
 
 ## Techs
 
@@ -10,6 +8,6 @@ This will be like Instacart a bit.
 - Express
 - MongoDB
 - Mobx-State-Tree
-- React-Native-Design-Utility
 - Expo
 - React-Navigation# verdura-groceries-store
+
