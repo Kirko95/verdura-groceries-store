@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Verdura-groceries",
+    "description": "Just fresh - We pick the way you pick",
+    "slug": "verdura",
+    "privacy": "public",
+    "sdkVersion": "29.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookAppId": "259947064699072",
+    "facebookScheme": "fb259947064699072",
+    "facebookDisplayName": "verdura",
+    "extra": {
+      "googleAppId": {
+        "android": "247482733069-2s4btufm7jp897ugtsb6e0k64s41ijn8.apps.googleusercontent.com",
+        "ios": "247482733069-bi35mobnlcdiqlm7d71mu1kju8qa6d5b.apps.googleusercontent.com"
+      }
+    }
+  }
+}
